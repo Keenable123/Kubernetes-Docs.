@@ -7,6 +7,9 @@
 
 [Where is the etcd data stored?](#Where-is-the-etcd-data-stored)
 
+[What is etcd full form?](#What-is-etcd-full-form)
+
+
 
 
 
