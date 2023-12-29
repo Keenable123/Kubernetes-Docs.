@@ -1,7 +1,8 @@
 # Table of content
+
 [Introduction](#Introduction)
 
-[What does Kubernetes store in etcd?](#What-does-Kubernetes-store-in-etcd-?)
+[What does Kubernetes store in etcd?](#What-does-Kubernetes-store-in-etcd)
 
 
 
@@ -44,7 +45,7 @@ Kubernetes is highly extensible and has a rich ecosystem of extensions and add-o
 
 Kubernetes has become the de facto standard for container orchestration in the cloud-native ecosystem. It simplifies the deployment and management of containerized applications, making it easier to build and run scalable, reliable, and resilient services. It's a complex system with a steep learning curve, but it offers significant benefits for organisations looking to adopt container-based infrastructure and microservices architecture.
 
-## What does Kubernetes store in etcd?
+## What does Kubernetes store in etcd
 Kubernetes uses etcd as its distributed key-value store to maintain the state of the entire cluster. Etcd is a consistent and highly available distributed database that stores configuration data, metadata, and other critical information about the cluster. Here are some of the key things that Kubernetes stores in etcd:
 
 ##### Cluster Configuration: 
