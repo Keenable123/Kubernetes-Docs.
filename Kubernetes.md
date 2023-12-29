@@ -1,7 +1,7 @@
 # Table of content
 [Introduction](##Introduction)
 
-[What does Kubernetes store in etcd?](## What does Kubernetes store in etcd?)
+[What does Kubernetes store in etcd?](##WhatdoesKubernetesstoreinetcd?)
 
 
 
