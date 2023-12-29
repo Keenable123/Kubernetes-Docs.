@@ -9,6 +9,8 @@
 
 [What is etcd full form?](#What-is-etcd-full-form)
 
+[Can I use etcd as a database?](#Can-I-use-etcd-as-a-database)
+
 
 
 
