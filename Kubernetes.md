@@ -4,6 +4,7 @@
 
 [What does Kubernetes store in etcd?](#What-does-Kubernetes-store-in-etcd)
 
+
 [Where is the etcd data stored?](#Where-is-the-etcd-data-stored)
 
 
