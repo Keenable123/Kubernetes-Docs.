@@ -254,3 +254,9 @@ host: Running
 kubelet: Running
 apiserver: Running
 kubeconfig: Configured
+
+
+Reference Link
+https://minikube.sigs.k8s.io/docs/start/
+https://kubernetes.io/
+https://www.youtube.com/results?search_query=technical+guftgu+kubernetes+
