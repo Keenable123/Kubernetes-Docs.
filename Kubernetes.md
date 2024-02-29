@@ -1,20 +1,22 @@
 # Table of content
 
-[Introduction](#introduction)
+[Introduction](#Introduction)
 
-[What does Kubernetes store in etcd?](#what-does-kubernetes-store-in-etcd)
-
-
-[Where is the etcd data stored?](#where-is-the-etcd-data-stored)
-
-[What is etcd full form?](#what-is-etcd-full-form)
-
-[Can I use etcd as a database?](#can-i-use-etcd-as-a-database)
+[What does Kubernetes store in etcd?](#What-does-kubernetes-store-in-etcd)
 
 
-[Set-up of Kubernetes](#set-up-of-kubernetes)
+[Where is the etcd data stored?](#Where-is-the-etcd-data-stored)
 
-[References](#references)
+[What is etcd full form?](#What-is-etcd-full-form)
+
+[Can I use etcd as a database?](#Can-i-use-etcd-as-a-database)
+
+
+[Set-up of Kubernetes](#Set-up-of-kubernetes)
+
+[References](#References)
+
+[System-requirement](#System-requiremnt)
 
 
 
@@ -136,9 +138,9 @@ The performance characteristics of etcd might not be optimal for all database wo
 
 In summary, etcd is not a replacement for traditional databases in most cases. It's a specialized tool designed for specific use cases related to distributed systems and configuration management. If you need a general-purpose database for data storage and retrieval, it's usually better to consider other database solutions that are more tailored to your specific requirements.
 
-
-
-
+## System-Requirements
+Docker and
+curl command
 
 
 
