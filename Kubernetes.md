@@ -2,21 +2,21 @@
 
 [Introduction](#Itroduction)
 
-[What does Kubernetes store in etcd?](#What-does-kubernetes-store-in-etcd)
+[What does Kubernetes store in etcd?](#what-does-kubernetes-store-in-etcd)
 
 
 [Where is the etcd data stored?](#where-is-the-etcd-data-stored)
 
 [What is etcd full form?](#What-is-etcd-full-form)
 
-[Can I use etcd as a database?](#Can-i-use-etcd-as-a-database)
+[Can I use etcd as a database?](#can-i-use-etcd-as-a-database)
 
 
-[Set-up of Kubernetes](#Set-up-of-kubernetes)
+[Set-up of Kubernetes](#set-up-of-kubernetes)
 
-[References](#References)
+[References](#references)
 
-[System-requirement](#System-requiremnt)
+[System-requirement](#system-requiremnt)
 
 
 
