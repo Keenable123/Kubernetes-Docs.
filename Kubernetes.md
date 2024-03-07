@@ -1,11 +1,11 @@
 # Table of content
 
-[Introduction](#itroduction)
+[Introduction](#Itroduction)
 
 [What does Kubernetes store in etcd?](#What-does-kubernetes-store-in-etcd)
 
 
-[Where is the etcd data stored?](#Where-is-the-etcd-data-stored)
+[Where is the etcd data stored?](#where-is-the-etcd-data-stored)
 
 [What is etcd full form?](#What-is-etcd-full-form)
 
