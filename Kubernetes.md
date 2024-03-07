@@ -1,6 +1,6 @@
 # Table of content
 
-[Introduction](#Introduction)
+[Introduction](#itroduction)
 
 [What does Kubernetes store in etcd?](#What-does-kubernetes-store-in-etcd)
 
